@@ -143,6 +143,15 @@ write user1 pts/1
 发送电子邮件
 mail user1
 
+# 11 硬盘命令
+1. df 显示系统文件信息
+df -ahT
+2. du 统计所占空间大小
+3. mount/umount 挂载/卸载
+4. fsck 文件系统检测与修复
+5. dumpe2fs 显示磁盘状态
+6. fdisk/patch 命令分区
+7. vi /etc/fstab 文件修复
 
 
 
